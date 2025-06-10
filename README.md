@@ -1,17 +1,42 @@
-# Code-challange--1
+## ☕ Challenge 1: Chai Bora Ingredient Calculator
 
-## Description
-This repository contains my Week 1 JavaScript coding challenges from Moringa School.
+A simple calculator that determines the quantity of ingredients needed to make a given number of cups of Kenyan chai.
 
-### Projects:
-1. **Chai Bora Ingredient Calculator ☕**
-2. **Boda Boda Fare Estimator **
-3. **Mobile Money Fee Estimator **
+**Run**:  
+The user is prompted to enter the number of cups. Output is shown in the console.
 
-## Setup Instructions
-1. Clone this repo
-2. Open each folder and run the JS files in a browser console (e.g., with `Live Server` or copy into DevTools)
+---
 
-## Author
-Bynum– `@CodeCraftByBynum`
+## 🛵 Challenge 2: Boda Boda Ride Fare Estimator
+
+Calculates an estimated fare based on distance (in kilometers) using a base fare and per-kilometer charge.
+
+**Run**:  
+The user inputs distance, and a detailed fare breakdown is shown in the console.
+
+---
+
+## 📱 Challenge 3: Mobile Money Transaction Fee Estimator
+
+Estimates a simplified mobile transaction fee based on 1.5% of the amount with min/max limits.
+
+**Run**:  
+The user enters the amount to send, and the transaction fee and total debited amount are printed in the console.
+
+---
+
+# Project structure
+Code-Challenge-1/
+├── chaiCalculator/
+│ └── chai.js
+├── bodaFareCalculator/
+│ └── fare.js
+├── mobileMoneyEstimator/
+│ └── fee.js
+└── README.md
+
+ # Author
+ Created by:Bynum Stacy
+ git hub repository:https://github.com/By-num/Code-challange--1
+ 
 
