@@ -12,7 +12,6 @@ function estimateTransactionFee(amountToSend) {
 alert(`Sending KES ${amountToSend}:
 Calculated Transaction Fee: KES ${fee}
 Total amount to be debited: KES ${total}
-
 Send Money Securely!`);
 }
 
